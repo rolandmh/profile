@@ -3,7 +3,7 @@
 body {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
-  background-color: white;
+  background-color: rgb(218, 226, 223);
   color: black;
   line-height: 24px;
 }
@@ -23,16 +23,16 @@ h2 {
 
 .container {
   border-radius: 3px;
-  padding: 24px;
+  padding: 6px;
   margin: 24px auto;
   text-align: center;
-  width: 620px;
+  width: 780px;
 /*  background-color: #f7f7f7;*/
 }
 
 .card {
   border-radius: 6px;
-  background-color: #DAE2DF;
+  background-color: white;
   box-shadow: 0 6px 2px rgba(0,0,0,.1);
   padding: 24px;
   margin: 20px;
